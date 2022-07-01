@@ -1,9 +1,9 @@
-## Description
+## # Description
 Hosting my personal static website in GitHub for free.
 
 URL: [sarath-pm.github.io](sarath-pm.github.io)
 
-## Feature
+## > Feature
 - HTML Static based website (Personal Profile)
 - Easy to customizable
 - Easy to deploy static changes on GitHub.
@@ -12,23 +12,23 @@ URL: [sarath-pm.github.io](sarath-pm.github.io)
 - 50 Contact Form Messages (Subscription Needed for more)
 - Contact Map Location (From GMaps Embed)
 
-## Pre-Requests
+## > Pre-Requests
 - Find a template of a static website (I used this one [templateflip](templateflip.com))
 - Basic knowledge of GitHub pages 
 - Basic knowledge of HTML Static website
 - Need a account in [formspree](https://formspree.io/) for contact form. if you're not interested you can ignore it and it's not mandatory.
 
-## How to Setup a GitHub Static website Look like this..
+## > How to Setup a GitHub Static website Look like this..
 _Please go and walk through the official GitHub [link](https://pages.github.com/) it's an easy way to set up._
 
-## My Website Output
+## > My Website Output
 Please go and check that the URL of my domain: [sarath-pm.github.io](sarath-pm.github.io)
 
 _Complete-Screenshot_
 
 <img src="https://user-images.githubusercontent.com/86669668/176893800-ae2fe310-6df1-4d2a-b220-8bceb8a79d7c.png" height= "350" width="200">
 
-## Directory Structure
+## > Directory Structure
 
 - css\              - Stylesheets CSS files for the template.
 - images\           - Images used in the template.
@@ -40,7 +40,7 @@ _Complete-Screenshot_
 - LICENSE-*.txt     - License file as per your downloaded variant.
 - CNAME for         - GitHub Pages domain pointer
 
-## How to Edit the template
+## > How to Edit the template
 ```
 1. Editing Content in the template
 
@@ -65,12 +65,12 @@ If you wish to change the name of the image file then you must
 also make a corresponding change in the HTML file which refer to that image.
 ```
 
-## How to use the template
+## > How to use the template
 ```
-Upload the contents to your webserver.
-index.html must be in the main (root) folder of your webserver.
-Do not change the name of the template folders or files unless you know
-what you are doing and are changing the names in HTML files too.
+* Upload the contents to your webserver.
+* index.html must be in the main (root) folder of your webserver.
+* Do not change the name of the template folders or files unless you know
+* what you are doing and are changing the names in HTML files too.
 ```
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
