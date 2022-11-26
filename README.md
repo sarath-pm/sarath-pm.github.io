@@ -13,7 +13,7 @@ URL: [sarath-pm.github.io](https://sarath-pm.github.io)
 - Contact Map Location (From GMaps Embed)
 
 ## > Pre-Requests
-- Find a template of a static website (I used this one [templateflip](templateflip.com))
+- Find a template of a static website (I used this one [templateflip](https://templateflip.com))
 - Basic knowledge of GitHub pages 
 - Basic knowledge of HTML Static website
 - Need a account in [formspree](https://formspree.io/) for contact form. if you're not interested you can ignore it and it's not mandatory.
@@ -22,7 +22,7 @@ URL: [sarath-pm.github.io](https://sarath-pm.github.io)
 _Please go and walk through the official GitHub [link](https://pages.github.com/) it's an easy way to set up._
 
 ## > My Website Output
-Please go and check that the URL of my domain: [sarath-pm.github.io](sarath-pm.github.io)
+Please go and check that the URL of my domain: [sarath-pm.github.io](https://sarath-pm.github.io)
 
 _Complete-Screenshot_
 
