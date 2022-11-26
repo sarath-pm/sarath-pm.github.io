@@ -1,7 +1,7 @@
 ## # Description
 Hosting my personal static website in GitHub for free.
 
-URL: [sarath-pm.github.io](sarath-pm.github.io)
+URL: [sarath-pm.github.io](https://sarath-pm.github.io)
 
 ## > Feature
 - HTML Static based website (Personal Profile)
