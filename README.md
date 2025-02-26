@@ -26,7 +26,7 @@ Please go and check that the URL of my domain: [sarath-pm.github.io](https://sar
 
 _Complete-Screenshot_
 
-<img src="https://github.com/sarath-pm/sarath-pm.github.io/assets/86669668/a3914053-2fba-402c-97f1-a790260ef791" height= "350" width="200">
+<img src="sarath-pm.github.io\sarath-website-screenshot.png" height= "350" width="200">
 
 ## > Directory Structure
 
